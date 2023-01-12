@@ -1,1 +1,1 @@
-# Case-study-on--Estimation-of-Gross-Merchandise-Value
+Case study in collaboration with a company in the food delivery industry with topic: Estimation of Gross Merchandise Value:Which factors are reliably important & Market Segmentation based on consumer’s purchase history
